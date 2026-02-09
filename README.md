@@ -5,7 +5,8 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ваш-логин/vk-music-rpc/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-![Скриншот работы в Discord](https://i.imgur.com/YNQ3Z5p.png) <!-- Замените на свой скриншот -->
+![Скриншот работы в Discord](https://i.yapx.ru/c4Jvc.png) <!-- Замените на свой скриншот -->
+![Скриншот приложения](https://i.yapx.ru/c4Jvr.png) 
 
 ## 📦 Установка за 30 секунд
 
